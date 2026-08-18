@@ -268,8 +268,7 @@ Instead of keeping everything as notes, I am documenting the commands, scripts, 
 
 Computer Engineering | Cloud & DevOps | Data Science | Software Development
 
-* GitHub: [Tanmay1112004](https://github.com/Tanmay1112004)
-* LinkedIn: [Tanmay Kshirsagar](https://linkedin.com/in/tanmay-kshirsagar)
+
 
 ---
 
@@ -280,5 +279,3 @@ If you find this repository useful, consider giving it a ⭐ and following my le
 **Learning Cloud. Building with DevOps. Automating everything. ☁️⚙️🚀**
 
 ----
-
-
