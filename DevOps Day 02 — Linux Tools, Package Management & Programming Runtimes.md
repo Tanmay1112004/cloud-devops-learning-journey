@@ -1864,10 +1864,3 @@ Before moving to Day 3:
 
 ---
 
-# Day 2 → Day 3
-
-**Day 1:** Linux Fundamentals ✅
-
-**Day 2:** Linux Tools, Package Management & Programming Runtimes ✅
-
-**Next:** Send your **Day 3 raw notes exactly as you wrote them**. We will continue building the same GitHub-ready learning repository.
