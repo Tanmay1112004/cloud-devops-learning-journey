@@ -1863,4 +1863,3 @@ Before moving to Day 3:
 - [ ] I can explain these concepts in an interview.
 
 ---
-
